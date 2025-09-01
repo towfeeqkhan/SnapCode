@@ -3,7 +3,7 @@
 
 <img width="1920" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/d166e2ed-dfd3-49eb-9095-3023bfb18240" />
 
-SnapCode is designed to help developers create and share beautiful screenshots of their code. Whether you're showcasing a snippet on social media, including it in a presentation, or adding it to your portfolio, SnapCode makes your code look sharp and professional.
+SnapCode is designed to help developers create and share beautiful screenshots of their code. Whether you're showcasing a code snippet on social media, including it in a presentation, or adding it to your portfolio, SnapCode makes your code look sharp and professional.
 
 [View Live Project](https://snapcode-web.vercel.app/)
 

@@ -5,6 +5,8 @@
 
 SnapCode is designed to help developers create and share beautiful screenshots of their code. Whether you're showcasing a snippet on social media, including it in a presentation, or adding it to your portfolio, SnapCode makes your code look sharp and professional.
 
+[View Live Project](https://snapcode-web.vercel.app/)
+
 
 
 ### **Features ✨**
